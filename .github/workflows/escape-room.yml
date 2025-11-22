@@ -1,4 +1,4 @@
-name: Escape Room Pipeline
+name: Escape Room Pipeline - Test
 
 jobs:
   build_test:
